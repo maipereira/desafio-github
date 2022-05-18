@@ -1,2 +1,2 @@
 # desafio-github
-Estudo DIO Git/Github
+Estudo - Repositorio desafio de projeto DIO Git/Github
